@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+faiss-cpu
+pillow
+numpy
+torch
+torchvision
+sentence-transformers
+open_clip_torch
+requests
